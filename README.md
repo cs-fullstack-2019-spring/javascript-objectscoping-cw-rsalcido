@@ -19,6 +19,10 @@
   
   console.log(test());
   ```
+//// Aurelio De Rosa, John Doe
+
+I went in order from top to bottom and wrote the caode it was calling for.
+
 
 2. What will you see in the console for the following example?
   ```
@@ -30,7 +34,9 @@
   } 
   b(); 
   console.log(a);    
-  ```
+  ``
+  
+  /// Concole will 1 for a
 
 * Create an array called ```peopleList``` objects using *Object Literal* notation. 
 
