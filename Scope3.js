@@ -1,4 +1,4 @@
-
+2
 //
 //                    * Create an array called ```peopleList``` objects using *Object Literal* notation.
 //
